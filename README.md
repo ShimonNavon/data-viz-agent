@@ -11,7 +11,9 @@
 <p>
   This project is designed as a practical MVP for learning
   <strong>manual tool calling</strong>, <strong>workflow orchestration</strong>,
-  and <strong>structured outputs</strong>.<img width="1517" height="598" alt="Screenshot 2026-04-19 at 5 21 10 PM" src="https://github.com/user-attachments/assets/ae11b758-021a-437b-a532-01b73dfb40c5" />
+  and <strong>structured outputs</strong>.
+  
+  
 
 </p>
 
@@ -19,8 +21,18 @@
 
 https://github.com/user-attachments/assets/2e4412a9-8b35-40d5-ac45-8e410db51f10
 
+
+
+
 In short: your input is a CSV and you get a chart
 
+
+
+
+
+
+
+  <img width="1517" height="598" alt="Screenshot 2026-04-19 at 5 21 10 PM" src="https://github.com/user-attachments/assets/ae11b758-021a-437b-a532-01b73dfb40c5" />
 
 
 
